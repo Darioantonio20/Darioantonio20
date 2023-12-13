@@ -1,4 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<div align="center">
+    <img src="https://drive.google.com/uc?id=1lUm8DH9agktiSfONFa4c_oQ2qyn2MI08" width="200px" />
+</div>
+<br>
 <h1 align="center">Hi stalker, my name is Darío, but my friends call me Ñañio 🦁</h1>
 <div align="center">
     <img src="/web/static/img/screenshots/homepage.gif" height=360/>
@@ -55,7 +60,4 @@
 - I love all type of anime 📺.
 
 <br>
-<div align="center">
-    <img src="https://drive.google.com/uc?id=1lUm8DH9agktiSfONFa4c_oQ2qyn2MI08" width="200px" />
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
