@@ -56,12 +56,25 @@
 
 <br>
 
-<div style="width: 200px; height: 200px; overflow: hidden; border-radius: 50%;">
-    <img src="https://drive.google.com/uc?id=1lUm8DH9agktiSfONFa4c_oQ2qyn2MI08" style="width: 100%;" />
-</div>
+<style>
+    .circular-image {
+        width: 200px; /* ajusta el tamaño deseado */
+        height: 200px; /* ajusta el tamaño deseado */
+        border-radius: 50%; /* hace que la imagen sea circular */
+        overflow: hidden; /* asegura que la imagen se ajuste al radio circular */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
-<div align="center">
-    <img src="https://drive.google.com/uc?id=1lUm8DH9agktiSfONFa4c_oQ2qyn2MI08" width="500px" border-radius="50%"  />
+    .circular-image img {
+        width: 100%;
+        height: auto;
+    }
+</style>
+
+<div class="circular-image">
+    <img src="https://drive.google.com/uc?id=1lUm8DH9agktiSfONFa4c_oQ2qyn2MI08" alt="Circular Image" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
