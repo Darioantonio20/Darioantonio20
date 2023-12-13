@@ -58,7 +58,7 @@
 
 <div>
     <center>
-        <img src="https://drive.google.com/uc?id=1lUm8DH9agktiSfONFa4c_oQ2qyn2MI08" width="1000px" />
+        <img src="https://drive.google.com/uc?id=1lUm8DH9agktiSfONFa4c_oQ2qyn2MI08" width="500px" />
     </center>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
