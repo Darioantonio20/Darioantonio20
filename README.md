@@ -46,9 +46,13 @@
 </picture>
 <br>
 
-- I <b>like</b> `sunsets` 🌅.
-- I <b>like practice</b> `volleyball` 🏐.
-- I <b>like</b> to exercise in `CrossFit` 🏋🏼‍♂️.
+- I like `sunsets` 🌅.
+- I like practice `volleyball` 🏐.
+- I like to exercise in `CrossFit` 🏋🏼‍♂️.
+- I love the `video-games` 🎮.
+- I considered few people friends, since I go for `quality` and not quantity 🫂.
+- I like to be connected with nature while `camping` 🏕.
+- I love all type of anime 📺.
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
