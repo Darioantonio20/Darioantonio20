@@ -57,6 +57,6 @@
 <br>
 
 <div>
-    <img src="https://drive.google.com/file/d/1lUm8DH9agktiSfONFa4c_oQ2qyn2MI08/view?usp=sharing" width = 250px />
+    <img src="https://drive.google.com/file/d/1lUm8DH9agktiSfONFa4c_oQ2qyn2MI08/view" width = 250px />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
