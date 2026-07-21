@@ -3,39 +3,50 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%90%81%2C+I'm+Dar%C3%ADo+Antonio!;Software+Developer+%F0%9F%92%BB;Full-Stack+%26+Front-End+Specialist+%F0%9F%9A%80;Building+SaaS%2C+ERP+%26+Mobile+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=34&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&height=75&lines=%C2%A1Hola!+Soy+Dar%C3%ADo+Antonio;Software+Developer+%7C+Full-Stack+%26+Front-End+Lead;Creador+de+Plataformas+SaaS%2C+ERP+y+Apps+M%C3%B3viles;Dise%C3%B1ador+de+Experiencias+Digitales+a+120+FPS" alt="Typing SVG" />
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://porfolio-dario-antonio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-porfolio--dario--antonio.netlify.app-00F2FE?style=for-the-badge&logo=netlify&logoColor=white&labelColor=090D16" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/PORTAFOLIO_OFICIAL-porfolio--dario--antonio.netlify.app-00F2FE?style=for-the-badge&logo=netlify&logoColor=white&labelColor=090D16" alt="Portafolio Oficial" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/dario-antonio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dar%C3%ADo_Antonio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090D16" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Dar%C3%ADo_Antonio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090D16" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:darioantoniogutierrezalvarez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090D16" alt="Email" />
+    <img src="https://img.shields.io/badge/CONTACTO-Enviar_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090D16" alt="Correo Electrónico" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/EXPERIENCIA-4%2B_A%C3%91OS-10B981?style=flat-square&logo=clock&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/ESPECIALIDAD-FRONT--END_%26_FULL--STACK-38BDF8?style=flat-square&logo=codefactor&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MODO-UI%2FUX_INMERSIVO-8B5CF6?style=flat-square&logo=figma&logoColor=white&labelColor=0D1117" />
 </div>
 
 <br>
 
 ---
 
-### 👨🏻‍💻 About Me & Professional Overview
+## <img src="https://raw.githubusercontent.com/ticoneva/ticoneva/main/icons/user.svg" width="24" height="24" align="center" /> Sobre Mí & Perfil Profesional
 
-Desarrollador de Software con **más de 4 años de experiencia** especializado en la maquetación **Front-End**, desarrollo **Full-Stack**, integración de sistemas **ERP**, plataformas **SaaS** y aplicaciones **móviles**.
+Desarrollador de Software con **más de 4 años de experiencia** especializado en arquitectura **Front-End de alta fidelidad**, desarrollo **Full-Stack**, integración de sistemas **ERP**, plataformas **SaaS** y soluciones **móviles**.
 
-A lo largo de mi trayectoria he liderado el desarrollo de interfaces, rediseños UX/UI y arquitectura de software para proyectos comerciales, marketplaces locales, sistemas de gestión para spas y concesionarias automotrices oficiales.
+He liderado y participado activamente en la maquetación de interfaces, rediseños UX/UI y captura de clientes para proyectos comerciales de alto impacto, plataformas de lealtad, sistemas de gestión para spas y concesionarias automotrices oficiales.
 
-- 🚀 **Especialidad Principal**: Front-End de Alto Rendimiento (React, Next.js, Vue, Tailwind CSS) & Laravel Full-Stack Ecosystem.
-- 📱 **Desarrollo Móvil**: Flutter, Dart, Capacitor, aplicaciones híbridas e integraciones nativas.
-- ⚡ **Enfoque**: UI/UX inmersiva, animaciones fluidas a 120 FPS, optimización SEO y diseño responsive.
-- 🌐 **Explora mis proyectos completos**: [porfolio-dario-antonio.netlify.app](https://porfolio-dario-antonio.netlify.app/)
+- <img src="https://api.iconify.design/lucide:zap.svg?color=%2322d3ee" width="16" /> **Especialidad Principal**: Front-End moderno (React, Next.js, TypeScript, Tailwind CSS) y Ecosistema Full-Stack con Laravel & Livewire.
+- <img src="https://api.iconify.design/lucide:smartphone.svg?color=%2310b981" width="16" /> **Desarrollo Móvil**: Flutter, Dart, Capacitor, aplicaciones híbridas y despliegue en tiendas de aplicaciones.
+- <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23a855f7" width="16" /> **Enfoque UI/UX**: Rendimiento fluidez a 120 FPS, arquitectura limpia, optimización SEO y micro-interacciones.
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+## <img src="https://raw.githubusercontent.com/ticoneva/ticoneva/main/icons/code.svg" width="24" height="24" align="center" /> Stacks Tecnológicos & Herramientas
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -46,69 +57,86 @@ A lo largo de mi trayectoria he liderado el desarrollo de interfaces, rediseños
 <br>
 
 <details open>
-<summary><b>🔥 Resumen por Capas Tecnológicas</b></summary>
+<summary><b><img src="https://api.iconify.design/lucide:layers.svg?color=%2338bdf8" width="16" /> Desglose Técnico por Capas</b></summary>
 
-| Categoría | Tecnologías Dominadas |
+| Capa Tecnológica | Tecnologías & Herramientas Dominadas |
 | :--- | :--- |
-| **Front-End & UI/UX** | React.js, Next.js (App Router), TypeScript, JavaScript (ES6+), Tailwind CSS 3/4, Bootstrap 5, Flowbite, HTML5/CSS3, GSAP, SCSS, Vite |
-| **Back-End & APIs** | PHP 8.x, Laravel (Livewire v3), CodeIgniter 4, Node.js, Express.js, Python, Flask, Java, APIs RESTful, Swagger |
-| **Bases de Datos & BD** | MySQL, SQLite, MongoDB, PostgreSQL |
+| **Front-End & UI/UX** | React.js, Next.js (App Router), TypeScript, JavaScript (ES6+), Tailwind CSS 3/4, Bootstrap 5, Flowbite, HTML5, CSS3, GSAP, SCSS, Vite |
+| **Back-End & APIs** | PHP 8.x, Laravel 10/11 (Livewire v3), CodeIgniter 4, Node.js, Express.js, Python, Flask, Java, APIs RESTful, Swagger |
+| **Bases de Datos** | MySQL, SQLite, MongoDB, PostgreSQL |
 | **Desarrollo Móvil** | Flutter, Dart, Capacitor v8, PWA, Android Studio, Xcode |
-| **DevOps, Cloud & Herramientas** | Git, GitHub, Bitbucket, Docker, AWS (Academy Certified), Google Cloud, Netlify, Vercel, Railway, Postman, Figma, n8n, AI Agents & MCP |
+| **IDEs de IA & Entornos** | **Antigravity (IDE Agentico)**, VS Code, Cursor, Windsurf, Trae, Figma, Postman |
+| **DevOps & Nube** | Git, GitHub, Bitbucket, Docker, AWS (Academy Certified), Google Cloud, Netlify, Vercel, Railway, n8n, Agentes IA & MCP |
 
 </details>
 
 ---
 
-### 🌟 Proyectos Destacados en mi Portafolio
-
-| Proyecto | Descripción | Stack Principal | Demo / Sitio |
-| :--- | :--- | :--- | :--- |
-| **Frex** | Plataforma de lealtad (Diseño UI/UX y Despliegue) | Bootstrap 5, GSAP, SCSS, Vite | [frex.club](https://frex.club/) |
-| **Bedima** | Sistema SaaS para gestión de Spas y Bienestar | Laravel 10, Livewire v3, MercadoPago | [Ver en Portafolio](https://porfolio-dario-antonio.netlify.app/) |
-| **TuxVentas** | Marketplace local y clasificados mobile-first | Laravel 10, Capacitor, Livewire | [Ver en Portafolio](https://porfolio-dario-antonio.netlify.app/) |
-| **Hino (Chiapas, Tabasco, Oaxaca)** | Plataforma web oficial para concesionario | Laravel, Bootstrap 5, Leaflet Maps | [Ver en Portafolio](https://porfolio-dario-antonio.netlify.app/) |
-| **Global Ezens** | Sitio corporativo y catálogo de productos CMS | Laravel 10, Tailwind CSS, Flowbite | [Ver en Portafolio](https://porfolio-dario-antonio.netlify.app/) |
-| **Jugamex** | Plataforma de lotería y apuestas deportivas | Laravel, PHP 8, ApexCharts, PayPal | [Ver en Portafolio](https://porfolio-dario-antonio.netlify.app/) |
-
----
-
-### 📊 GitHub Stats & Contribuciones
+## <img src="https://raw.githubusercontent.com/ticoneva/ticoneva/main/icons/folder.svg" width="24" height="24" align="center" /> Proyectos Destacados en Portafolio
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darioantonio20&show_icons=true&theme=cyan&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=34D399" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darioantonio20&layout=compact&theme=cyan&hide_border=true&bg_color=0D1117&title_color=22D3EE" height="175" alt="Top Languages" />
+  <p>Explora mi selección de productos independientes, herramientas internas, mercados y experiencias orientadas al cliente:</p>
+
+  <br>
+
+  <a href="https://porfolio-dario-antonio.netlify.app/#projects" target="_blank">
+    <img src="https://img.shields.io/badge/VER_TODOS_LOS_PROYECTOS_INTERACTIVOS_EN_PORTAFOLIO-00F2FE?style=for-the-badge&logo=react&logoColor=black&labelColor=090D16" alt="Explorar Proyectos" />
+  </a>
 </div>
 
 <br>
 
+```graphql
+ ┌────────────────────────────────────────────────────────────────────────────────────────┐
+ │                                                                                        │
+ │   ⚡ Frex              │ Plataforma de Lealtad (Diseño UI/UX & Despliegue)             │
+ │   🏆 Bedima            │ Sistema SaaS para Gestión de Spas y Bienestar                 │
+ │   📱 TuxVentas          │ Marketplace Local & Clasificados Mobile-First                 │
+ │   🚗 Hino (Chiapas/Tab/Oax) │ Plataformas Web Oficiales para Concesionaria              │
+ │   🌐 Global Ezens      │ Catálogo Corporativo & CMS de Productos                        │
+ │   🎲 Jugamex           │ Plataforma de Lotería y Apuestas en Línea                     │
+ │   🏗️ Voldo              │ ERP de Maquinaria Pesada (Front-End & Interfaces)              │
+ │   🧼 Lavafy             │ Marketplace Móvil de Autolavados (Front-End & Layout)          │
+ │                                                                                        │
+ └────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake animation"/>
+  <a href="https://porfolio-dario-antonio.netlify.app/#projects" target="_blank">
+    <img src="https://img.shields.io/badge/CLICK_AQU%C3%8D-VER_TARJETAS_CON_VISTA_PREVIA_EN_VIVO-34D399?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Ver Vista Previa" />
+  </a>
 </div>
 
 ---
 
-### 🎯 Gustos Personales & Hobbies 
+## <img src="https://raw.githubusercontent.com/ticoneva/ticoneva/main/icons/layout.svg" width="24" height="24" align="center" /> Arquitectura UI/UX & Flujos Interactivos
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561f414e-eb90-43b0-ba70-e6015c40fc72.gif" width="600px" alt="UX/UI Animated Workflow" />
+  <br>
+  <p><i>Creación de maquetas avanzadas, animaciones fluidas y sistemas de diseño escalables.</i></p>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/ticoneva/ticoneva/main/icons/heart.svg" width="24" height="24" align="center" /> Intereses & Enfoque Personal
 
 <picture> 
     <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px" />
 </picture>
 
-- 🌅 Disfruto contemplar los **atardeceres**.
-- 🏐 Me apasiona practicar **Voleibol**.
-- 🏋🏼‍♂️ Entreno constantemente en **CrossFit**.
-- 🎮 Fanático de los **videojuegos**.
-- 🫂 Valoro las amistades auténticas: calidad sobre cantidad.
-- 🏕️ Me reconecto con la naturaleza al acampar al aire libre.
-- 📺 Apasionado por todo tipo de **Anime**.
+<div align="left">
+  <img src="https://img.shields.io/badge/INTERÉS-Fotografía_de_Atardeceres-F97316?style=flat-square&logo=sun&logoColor=white&labelColor=0D1117" /><br>
+  <img src="https://img.shields.io/badge/DEPORTE-Voleibol_Competitivo-38BDF8?style=flat-square&logo=activity&logoColor=white&labelColor=0D1117" /><br>
+  <img src="https://img.shields.io/badge/FITNESS-Entrenamiento_CrossFit-10B981?style=flat-square&logo=simpleanalytics&logoColor=white&labelColor=0D1117" /><br>
+  <img src="https://img.shields.io/badge/HOBBY-Videojuegos_%26_Gaming-8B5CF6?style=flat-square&logo=gamepad&logoColor=white&labelColor=0D1117" /><br>
+  <img src="https://img.shields.io/badge/VALOR-Relaciones_de_Calidad-EC4899?style=flat-square&logo=users&logoColor=white&labelColor=0D1117" /><br>
+  <img src="https://img.shields.io/badge/NATURALEZA-Camping_%26_Aire_Libre-059669?style=flat-square&logo=compass&logoColor=white&labelColor=0D1117" /><br>
+  <img src="https://img.shields.io/badge/CULTURA-Anime_%26_Animación-EF4444?style=flat-square&logo=tv&logoColor=white&labelColor=0D1117" />
+</div>
 
 <br clear="all">
 
----
-
-<div align="center">
-  <p>💡 <i>"Transformando ideas complejas en experiencias web elegantes e intuitivas."</i></p>
-  <p>🔗 <b>Visita mi portafolio web oficial: <a href="https://porfolio-dario-antonio.netlify.app/">porfolio-dario-antonio.netlify.app</a></b></p>
-</div>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
